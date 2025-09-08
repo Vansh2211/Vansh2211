@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Vansh!
 
-<!--
-**Vansh2211/Vansh2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | Startup Enthusiast | Builder**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 About Me
+
+- 💻 I’m a passionate **Software Developer** with a love for building impactful products and solving real-world problems.
+- 🏗️ I thrive in startup environments and aspire to "build something big"!
+- 🤖 Fascinated by the intersection of software engineering and machine learning.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Java, Python, Typescript
+- **Frameworks:** Spring Boot, React
+- **Other:** Machine Learning
+
+---
+
+## 🌟 Favorite Projects
+
+- [SecureHire](https://github.com/Vansh2211/SecureHire-Frontend) End-to-end security hiring platform.
+- [ChatApp](https://github.com/Vansh2211/FormBuilder): Real-time communication, built with React and modern web tech.
+- [Java-Programs](https://github.com/Vansh2211/Java-Programs): My Java learning journey and code snippets.
+
+---
+
+## 🧠 Interests & Hobbies
+
+- 🚀 Startup culture & entrepreneurship
+- 🛠️ Building cool, useful stuff
+- 🤝 Connecting with like-minded innovators
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn - https://www.linkedin.com/in/vansh-mehta-723953222
+
+
+---
+
+## 💡 Fun Fact
+
+> **Want to build something big...**
+
 -->
