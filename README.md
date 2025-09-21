@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 💻 I’m a passionate **Software Developer** with a love for building impactful products and solving real-world problems.
+- 💻 I’m a passionate **Software Engineer** with a love for building impactful products and solving real-world problems.
 - 🏗️ I thrive in startup environments and aspire to "build something big"!
 - 🤖 Fascinated by the intersection of software engineering and machine learning.
 
