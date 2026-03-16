@@ -23,7 +23,7 @@
 ## 🌟 Favorite Projects
 
 - [SecureHire](https://github.com/Vansh2211/SecureHire-Frontend) End-to-end security hiring platform.
-- [ChatApp](https://github.com/Vansh2211/FormBuilder): Real-time communication, built with React and modern web tech.
+- [ChatApp](https://github.com/Vansh2211/Real-Time-Chat-Application): Real-time communication, built with React and modern web tech.
 - [Java-Programs](https://github.com/Vansh2211/Java-Programs): My Java learning journey and code snippets.
 
 ---
