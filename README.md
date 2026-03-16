@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vansh!
 
-**Software Engineer | Startup Enthusiast | Builder**
+**Software Engineer | Startup Enthusiast |AI Enthusiast | Builder**
 
 ---
 
