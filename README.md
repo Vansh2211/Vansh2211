@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a full-stack engineer who goes deep into **Machine Learning, Deep Learning, and Generative AI** —
+I'm a software engineer who goes deep into **Machine Learning, Deep Learning, and Generative AI** —
 from training models and designing neural architectures to building production-grade LLM and RAG pipelines.
 I love the speed of startup environments and I'm on a mission to build something that actually matters.
 I thrive in startup environments and aspire to "build something big"!
@@ -16,11 +16,13 @@ I thrive in startup environments and aspire to "build something big"!
 ## 🛠️ Tech Stack
 
 **Languages** · Java · Python · TypeScript  
+
 **AI / ML / DL**
 - Machine Learning · Supervised/Unsupervised Learning · Model Training & Evaluation
 - Deep Learning · Neural Networks · CNNs · RNNs · Transformers
 - Generative AI · LLMs · RAG · Embeddings · Vector Databases
 - Frameworks: LangChain · TensorFlow · PyTorch · Scikit-learn · Hugging Face
+  
 **Web & Backend** · React · FastAPI · Spring Boot  
 **Other** · API Design · Data Pipelines · System Design
 
