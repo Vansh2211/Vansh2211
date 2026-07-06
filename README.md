@@ -1,31 +1,40 @@
-# 👋 Hi, I'm Vansh!
-
-**Software Engineer | Startup Enthusiast | AI Engineer | Builder**
-
+# 👋 Hi, I'm Vansh Mehta
+ 
+**Software Engineer | Full-Stack Developer | Backend Systems | AI Enthusiast**
+ 
 ---
-
+ 
 ## 🚀 About Me
-
-I'm a software engineer who goes deep into **Machine Learning, Deep Learning, and Generative AI** —
-from training models and designing neural architectures to building production-grade LLM and RAG pipelines.
-I love the speed of startup environments and I'm on a mission to build something that actually matters.
-I thrive in startup environments and aspire to "build something big"!
-
+ 
+I'm a Software Engineer with full-cycle development experience building scalable, secure backend systems using **Java, Spring Boot, and REST APIs/microservices**, along with full-stack delivery using the **MERN stack**. I care about clean OOP design, well-tested code, and shipping maintainable software in fast-moving teams.
+ 
+Alongside my core engineering work, I've applied Machine Learning, Deep Learning, and LLM/RAG techniques to real projects — from fraud detection systems to AI-powered knowledge assistants — because I like understanding a problem all the way down to the model.
+ 
+Currently building privacy-compliance and data governance systems at **ElasticDevs**.
+ 
 ---
-
+ 
 ## 🛠️ Tech Stack
-
-**Languages** · Java · Python · TypeScript  
-
-**AI / ML / DL**
-- Machine Learning · Supervised/Unsupervised Learning · Model Training & Evaluation
-- Deep Learning · Neural Networks · CNNs · RNNs · Transformers
-- Generative AI · LLMs · RAG · Embeddings · Vector Databases
-- Frameworks: LangChain · TensorFlow · PyTorch · Scikit-learn · Hugging Face
-  
-**Web & Backend** · React · FastAPI · Spring Boot  
-**Other** · API Design · Data Pipelines · System Design
-
+ 
+**Languages**
+Java · Python · JavaScript · TypeScript
+ 
+**Backend**
+Spring Boot · Java EE · Hibernate · Node.js · Express.js · REST APIs · Microservices · OOP Design
+ 
+**Frontend**
+React · Next.js · HTML/CSS
+ 
+**Databases**
+MySQL · MongoDB
+ 
+**Tools & Practices**
+Git · JWT · Postman · Agile/Scrum · CI/CD
+ 
+**AI / ML (applied)**
+Machine Learning · Deep Learning · TensorFlow · Scikit-learn · NLP · Transformers · LangChain · RAG/LLM · FAISS
+ 
+---
 
 ## 🌟 Favorite Projects
 
@@ -54,6 +63,9 @@ I thrive in startup environments and aspire to "build something big"!
 ## 🌐 Let's Connect
 
 LinkedIn - https://www.linkedin.com/in/vansh-mehta-723953222
+- 📧 mehtavansh2211@gmail.com
+- 💻 [github.com/Vansh2211](https://github.com/Vansh2211)
+- 📍 Bangalore, India
 
 
 ---
