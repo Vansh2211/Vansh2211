@@ -38,7 +38,8 @@ Machine Learning · Deep Learning · TensorFlow · Scikit-learn · NLP · Transf
 
 ## 🌟 Favorite Projects
 
-- [SecureHire](https://github.com/Vansh2211/SecureHire-Frontend) End-to-end security hiring platform.
+- [SeeShow](https://github.com/Vansh2211/seeShow) Event booking app, built with Java and Springboot.
+- [SecureHire](https://github.com/Vansh2211/SecureHire-Frontend): End-to-end security hiring platform.
 - [ChatApp](https://github.com/Vansh2211/Real-Time-Chat-Application): Real-time communication, built with React and modern web tech.
 - [Java-Programs](https://github.com/Vansh2211/Java-Programs): My Java learning journey and code snippets.
 - [RAG-Project](https://github.com/Vansh2211/RAG-Project): RAG project with proper pipeline implementation.
