@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vansh Mehta
  
-**Software Engineer | Full-Stack Developer | Backend Systems | AI Enthusiast**
+**Software Engineer | Full-Stack Developer | Java | Springboot | Backend Systems | AI Enthusiast**
  
 ---
  
